@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://i.imgur.com/zYxrM9S.png" alt="banner" width="100%" />
+  <img src="[https://i.imgur.com/zYxrM9S.png](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZuZ2E2NGJvejVzaTRkNmNveTBwcDh1ZHRmMjhhb3hmZzNxaDVtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j3mdQpQ9SKxFOWs9gy/giphy.webp)" alt="banner" width="100%" />
 </p>
 
 <h1 align="center"> Yo! I'm Ketan Goyal 👋</h1>
