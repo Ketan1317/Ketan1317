@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="gif.gif" alt="banner" width="85%" height="200px"/>
+  <img src="gif.gif" alt="banner" width="85%" height="600px"/>
 </p>
 
 <h1 align="center">Yo! I'm Ketan Goyal 👋</h1>
@@ -47,12 +47,13 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://leetcode.com/u/ketangoyal1212/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"/>
   </a>
-  <a href="mailto:your-goyalketan1317@gmail.com">
+  <a href="mailto:goyalketan1317@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
 
 ---
 
