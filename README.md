@@ -1,195 +1,697 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:2d1b4e,100:0d0d2b&height=260&section=header&text=KETAN%20GOYAL&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⚡%20Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Web%20%26%20Distributed%20Systems&descSize=18&descAlignY=72&descColor=c4b5fd"/>
-</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=720&lines=Building+systems%2C+not+just+interfaces+%F0%9F%9A%80;Full+Stack+%7C+Cloud+%7C+DevOps+%7C+Distributed+Systems+%E2%9A%A1;Engineering+HackHeaven%2C+DevPulse+%26+DeployForge+%F0%9F%92%BB;800%2B+DSA+problems+solved+%F0%9F%A7%A0;Open+to+SWE+%26+Full+Stack+roles+%E2%86%92+Let%27s+build"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ketan-goyal-117368324/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/KetanGo11864224"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ketangoyal1212/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:goyalketan1317@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:2d1b4e,100:0d0d2b&height=260&section=header&text=KETAN%20GOYAL&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⚡%20FULL%20STACK%20ENGINEER%20%7C%20CLOUD%20%26%20DEVOPS%20%7C%20SYSTEMS&descSize=18&descAlignY=72&descColor=c4b5fd"/>
 
 <br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Ketan+Goyal;%24+role+%E2%86%92+Full+Stack+Engineer;%24+focus+%E2%86%92+Scalable+%26+Distributed+Systems;%24+build+%E2%86%92+HackHeaven+%7C+DevPulse+%7C+DeployForge;%24+ship+%E2%86%92+Docker+%2B+AWS+%2B+CI%2FCD;%24+status+%E2%86%92+Always+Building+%E2%9A%A1"/>
 
-## 🧑‍💻 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="coding animation"/>
-
-```python
-ketan = {
-    "role":          "Full Stack Developer",
-    "education":     "B.E. Computer Science @ Chitkara University",
-    "cgpa":          "9.8 / 10",
-    "focus":         ["Full Stack", "Cloud", "DevOps", "Distributed Systems"],
-    "stack":         ["React", "Next.js", "Node.js", "Spring Boot"],
-    "databases":     ["PostgreSQL", "MongoDB"],
-    "infra":         ["Docker", "AWS", "Nginx", "GitHub Actions"],
-    "systems":       ["WebSockets", "Socket.io", "WebRTC", "REST APIs"],
-    "security":      ["JWT", "OAuth 2.0", "RBAC", "Session Management"],
-    "mission":       "Build scalable systems with real-world impact",
-    "open_to":       ["SWE roles", "Full Stack roles", "Collaborations"]
-}
-```
-
-> [!NOTE]
-> 🔥 **Computer Science student & full-stack engineer** focused on building scalable, production-oriented systems. I enjoy working across application development, backend architecture, real-time systems, cloud infrastructure, and deployment automation.
-
-<br clear="right"/>
-
----
-
-## ⚙️ Tech Arsenal
-
-<details open>
-<summary><b>🔮 Languages</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts&perline=9"/>
-</details>
-
-<details open>
-<summary><b>⚛️ Frontend & Backend</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring&perline=9"/>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Architecture</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&perline=9"/>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,bash&perline=9"/>
-</details>
-
-<details open>
-<summary><b>🔐 Security, APIs & Real-Time</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=postman,git,github&perline=9"/>
 <br/><br/>
-<b>Security:</b> JWT · OAuth 2.0 · RBAC · Session Management
-<br/>
-<b>Real-Time:</b> WebSockets · Socket.io · WebRTC · Event-Driven Architecture
-<br/>
-<b>APIs:</b> REST APIs · MVC Architecture
-</details>
 
----
+<a href="mailto:goyalketan1317@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 📈 GitHub Highlights
+<a href="https://www.linkedin.com/in/ketan-goyal-117368324/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketan-goyal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-goyal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="175"/>
-</div>
+<a href="https://x.com/KetanGo11864224">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ketan-goyal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="580"/>
-</div>
+<a href="https://leetcode.com/u/ketangoyal1212/">
+<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ketan-goyal&theme=tokyonight" width="90%" />
-</p>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=ketan-goyal&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
-## 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketan-goyal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=8" width="100%"/>
-
----
-
-## 🧩 Featured Creations
-
-| 🔖 Project                    | ⚙️ Stack                                                           | ✨ Highlight                                                                                              |
-| ----------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| 🚀 **HackHeaven**             | Next.js · Node.js · Socket.io · Redis · Docker · AWS ECS · AWS ECR | Real-time collaborative coding platform with multi-user editing, live contests & isolated code execution |
-| 📊 **DevPulse**               | React.js · Spring Boot · PostgreSQL · JWT · REST APIs              | Developer analytics & system health dashboard with monitoring, alerting and real-time metrics            |
-| ☁️ **DeployForge**            | Docker · AWS EC2 · Nginx · GitHub Actions · Node.js · React.js     | Self-hosted deployment platform automating build-to-production CI/CD pipelines                           |
-| 🌐 **Open Source Chandigarh** | Next.js · TypeScript · Cloud Services                              | Official community website with optimized performance and infrastructure for community events            |
-
----
-
-## 🏆 Engineering Journey
-
-<div align="center">
-
-| 🚀 Milestone       | 📌 Achievement                                                         |
-| ------------------ | ---------------------------------------------------------------------- |
-| 🧠 **DSA**         | 800+ problems solved across LeetCode, Codeforces & GeeksforGeeks       |
-| 🌐 **Open Source** | Accepted & merged contributions through Hacktoberfest & Winter of Code |
-| ⚡ **Community**    | Web Team Member at Open Source Chandigarh                              |
-| 🏗️ **Hackathons** | Technical operations across 3+ hackathons & workshops                  |
-| 👥 **Impact**      | Coordinated infrastructure for 200+ participants                       |
-| 💼 **Industry**    | J.P. Morgan Software Engineering Virtual Experience Program            |
-| 🎓 **Academics**   | B.E. Computer Science — CGPA 9.8 / 10                                  |
+<img src="https://img.shields.io/github/followers/ketan-goyal?style=for-the-badge&color=7c3aed&labelColor=1a1b27&logo=github&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-## 🔭 Currently Building
+## 🧑‍💻 `$ ./about-me`
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  ⚡ Full Stack Engineering                              │
-│     React · Next.js · Node.js · Spring Boot             │
-│                                                          │
-│  ☁️ Cloud & DevOps                                      │
-│     Docker · AWS · Nginx · GitHub Actions               │
-│                                                          │
-│  🌐 Distributed & Real-Time Systems                     │
-│     WebSockets · Socket.io · WebRTC · Redis             │
-│                                                          │
-│  🧠 Computer Science                                    │
-│     DSA · DBMS · OS · Networks · System Design          │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  KETAN GOYAL                                                 │
+│  ──────────────────────────────────────────────────────────  │
+│                                                              │
+│  Role        → Full Stack Developer                          │
+│  Education   → B.E. Computer Science                        │
+│  University  → Chitkara University                           │
+│  CGPA        → 9.8 / 10                                     │
+│                                                              │
+│  Building    → Scalable Web Applications                     │
+│  Exploring   → Cloud • DevOps • Distributed Systems          │
+│  Engineering → Real-Time Systems • Backend • Infrastructure │
+│                                                              │
+│  DSA         → 800+ Problems                                 │
+│  Open Source → Active Contributor                            │
+│                                                              │
+│  Philosophy  → Build → Break → Learn → Improve → Ship       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+> **I build production-oriented software across the entire stack — from user interfaces and APIs to databases, real-time infrastructure, containers, cloud deployments and CI/CD pipelines.**
+
+---
+
+## ⚡ `$ cat tech-stack.json`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts&perline=8"/>
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind&perline=8"/>
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=8"/>
+
+<br/><br/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=8"/>
+
+<br/><br/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,bash&perline=8"/>
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman&perline=8"/>
+
+</div>
+
+---
+
+## 🧠 `$ cat engineering-stack`
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+### ⚛️ APPLICATION
+
+React.js
+Next.js
+Node.js
+Express.js
+Spring Boot
+REST APIs
+MVC Architecture
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️ INFRASTRUCTURE
+
+Docker
+AWS EC2
+AWS ECS
+AWS ECR
+Nginx
+GitHub Actions
+CI/CD
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 SYSTEMS
+
+WebSockets
+Socket.io
+WebRTC
+Redis
+Event-Driven Architecture
+Distributed Systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🗄️ DATA
+
+PostgreSQL
+MongoDB
+Database Design
+Indexing
+Query Optimization
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 SECURITY
+
+JWT
+OAuth 2.0
+RBAC
+Session Management
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧩 CS FUNDAMENTALS
+
+DSA
+DBMS
+Operating Systems
+Computer Networks
+OOP
+System Design
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🚀 `$ ls ./projects`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🚀 HackHeaven</h2>
+
+<b>Real-Time Collaborative Coding Platform</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat-square&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+<br/><br/>
+
+```text
+┌───────────────────────────────┐
+│  Client                       │
+│     ↓                         │
+│  Next.js                      │
+│     ↓                         │
+│  Socket.io / WebSockets       │
+│     ↓                         │
+│  Node.js                      │
+│     ↓                         │
+│  Redis                        │
+│     ↓                         │
+│  Docker Sandbox               │
+│     ↓                         │
+│  AWS ECS / ECR                │
+└───────────────────────────────┘
+```
+
+**Highlights**
+
+* Multi-user simultaneous editing
+* Real-time collaboration
+* Live coding contests
+* Isolated code execution
+* Dockerized execution environments
+* AWS ECS horizontal scalability
+* Event-driven WebSocket architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>📊 DevPulse</h2>
+
+<b>Developer Analytics & System Monitoring</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+
+<br/><br/>
+
+```text
+┌───────────────────────────────┐
+│  React Dashboard              │
+│          ↓                    │
+│  REST API                     │
+│          ↓                    │
+│  Spring Boot                  │
+│          ↓                    │
+│  PostgreSQL                   │
+│          ↓                    │
+│  Monitoring Services          │
+│          ↓                    │
+│  Alerts + Visualizations      │
+└───────────────────────────────┘
+```
+
+**Highlights**
+
+* Developer analytics dashboard
+* System health monitoring
+* Real-time metrics
+* PostgreSQL indexing
+* Query optimization
+* Scheduled monitoring services
+* Proactive anomaly detection
+* Interactive data visualization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>☁️ DeployForge</h2>
+
+<b>Self-Hosted Deployment Platform</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+<br/><br/>
+
+```text
+┌───────────────────────────────┐
+│  Git Push                     │
+│      ↓                        │
+│  GitHub Actions               │
+│      ↓                        │
+│  Docker Build                 │
+│      ↓                        │
+│  AWS EC2                      │
+│      ↓                        │
+│  Nginx                        │
+│      ↓                        │
+│  Production                   │
+└───────────────────────────────┘
+```
+
+**Highlights**
+
+* Self-hosted deployment platform
+* Automated CI/CD pipelines
+* Docker containerization
+* AWS EC2 infrastructure
+* Nginx reverse proxy
+* Zero-downtime deployments
+* Custom domain routing
+* Multi-application deployment
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🌐 Open Source Chandigarh</h2>
+
+<b>Community Engineering & Infrastructure</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+<br/><br/>
+
+```text
+┌───────────────────────────────┐
+│  Community Website            │
+│           ↓                   │
+│  Next.js + TypeScript         │
+│           ↓                   │
+│  Cloud Infrastructure         │
+│           ↓                   │
+│  Hackathons                   │
+│           ↓                   │
+│  200+ Participants            │
+└───────────────────────────────┘
+```
+
+**Highlights**
+
+* Web Team Member
+* Next.js + TypeScript
+* 40% page-load improvement
+* 3+ hackathons supported
+* Community workshops
+* 200+ participants
+* Cloud-hosted infrastructure
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📈 `$ git stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ketan-goyal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-goyal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="580" src="https://streak-stats.demolab.com?user=ketan-goyal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ketan-goyal&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📊 `$ git activity`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ketan-goyal&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=8"/>
+
+</div>
+
+---
+
+## 🏆 `$ cat achievements`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+## 🧠
+
+### 800+
+
+DSA Problems
+
+LeetCode
+Codeforces
+GeeksforGeeks
+
+</td>
+
+<td align="center" width="25%">
+
+## 🌐
+
+### Open Source
+
+Merged PRs
+
+Hacktoberfest
+Winter of Code
+
+</td>
+
+<td align="center" width="25%">
+
+## ⚡
+
+### 3+
+
+Hackathons
+
+Technical Operations
+Community Workshops
+
+</td>
+
+<td align="center" width="25%">
+
+## 🎓
+
+### 9.8 / 10
+
+CGPA
+
+B.E. Computer Science
+Chitkara University
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧩 `$ system-design`
+
+<div align="center">
+
+```text
+                         ┌──────────────────┐
+                         │      CLIENT      │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │      NGINX       │
+                         │  Reverse Proxy   │
+                         └────────┬─────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    ▼                           ▼
+           ┌────────────────┐          ┌────────────────┐
+           │   FRONTEND     │          │    BACKEND     │
+           │ React / Next   │          │ Node / Spring  │
+           └────────────────┘          └───────┬────────┘
+                                               │
+                              ┌────────────────┼────────────────┐
+                              ▼                ▼                ▼
+                       ┌────────────┐   ┌────────────┐   ┌────────────┐
+                       │ PostgreSQL │   │   Redis    │   │ WebSockets │
+                       └────────────┘   └────────────┘   └────────────┘
+                                               │
+                                               ▼
+                                      ┌────────────────┐
+                                      │ Docker / AWS   │
+                                      │ EC2 / ECS / ECR│
+                                      └────────────────┘
+```
+
+</div>
+
+---
+
+## 🔥 `$ uptime`
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   SYSTEM STATUS                                         │
+│                                                         │
+│   [████████████████████████████████████████]  ONLINE   │
+│                                                         │
+│   Building        ████████████████████░░  90%          │
+│   Learning        █████████████████████░  95%          │
+│   DSA             ███████████████████░░░  85%          │
+│   Open Source     ██████████████████░░░░  80%          │
+│                                                         │
+│   STATUS → SHIPPING ⚡                                  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🧭 `$ roadmap`
+
+```text
+2024
+ │
+ ├── 🎓 Started B.E. Computer Science
+ │
+ ├── 🌐 Open Source Contributions
+ │
+ ▼
+2025
+ │
+ ├── ⚛️ Full Stack Development
+ │
+ ├── 🧠 DSA + Computer Science Fundamentals
+ │
+ ├── 🚀 HackHeaven
+ │
+ ├── 📊 DevPulse
+ │
+ ▼
+2026
+ │
+ ├── ☁️ AWS + Cloud Infrastructure
+ │
+ ├── 🔄 CI/CD + DevOps
+ │
+ ├── 🌐 Distributed & Real-Time Systems
+ │
+ ├── 🏗️ DeployForge
+ │
+ └── 🚀 Building Production-Grade Systems
 ```
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 💼 `$ experience`
+
+### 🌐 Open Source Chandigarh
+
+**Web Team Member · 2024 – Present**
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  Next.js + TypeScript                                │
+│                                                      │
+│  Performance          →  +40%                        │
+│  Hackathons           →  3+                          │
+│  Participants         →  200+                        │
+│  Infrastructure       →  Cloud Hosted                │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+* Engineered and maintained the official community website.
+* Improved page-load performance through code-splitting and asset optimization.
+* Supported technical operations across hackathons and workshops.
+* Helped maintain reliable event infrastructure.
+
+---
+
+## 📜 `$ certifications`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/J.P.%20Morgan-Software%20Engineering%20Virtual%20Experience-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+Completed the **J.P. Morgan Software Engineering Virtual Experience Program**, working with Spring Boot and production-oriented REST API solutions.
+
+---
+
+## 🧠 `$ core-knowledge`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Management-2D1B4E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-2D1B4E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-2D1B4E?style=for-the-badge"/>
+
+</div>
+
+---
+
+## ✍️ `$ fortune`
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ketan-goyal&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ketan-goyal?style=for-the-badge&color=7c3aed&labelColor=1a1b27&logo=github&label=FOLLOWERS"/>
-</p>
-
-<p align="center">
-  <b>"Build systems. Solve problems. Ship continuously." ⚡</b>
-</p>
+## 📫 `$ connect`
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:2d1b4e,100:000000&height=120&section=footer"/>
+
+### Let's build something interesting.
+
+<br/>
+
+<a href="mailto:goyalketan1317@gmail.com">
+<img src="https://img.shields.io/badge/goyalketan1317%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ketan-goyal-117368324/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ketangoyal1212/">
+<img src="https://img.shields.io/badge/LeetCode-800%2B-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://x.com/KetanGo11864224">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:2d1b4e,100:000000&height=120&section=footer"/>
+
+<br/>
+
+<b>⚡ Build systems. Solve problems. Ship continuously.</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-SHIP-000000?style=for-the-badge"/>
+
 </div>
 ```
 
-### What I changed
+This is the direction I'd use for your profile: **less “student portfolio,” more “young engineer building real systems.”** Your resume supports the stronger engineering positioning through HackHeaven's AWS/Docker/Redis/WebSocket architecture, DevPulse's Spring Boot/PostgreSQL monitoring stack, and DeployForge's AWS/Docker/Nginx/CI/CD work.
 
-* **Removed the Web3-heavy positioning** because your current profile is much stronger around **Full Stack + Cloud/DevOps + real-time/distributed systems**.
-* Replaced the old project list with your three strongest resume projects: **HackHeaven, DevPulse, DeployForge**.
-* Added **Open Source Chandigarh** under your engineering journey because it is actual experience, not just a project.
-* Updated the stack to match your actual technical-skills section: Java, C++, JS/TS, React/Next, Node/Express/Spring Boot, PostgreSQL/MongoDB, Docker/AWS/Nginx/GitHub Actions, JWT/OAuth/RBAC, WebSockets/Socket.io/WebRTC, etc.
-* Added your **9.8 CGPA**, **800+ DSA**, **3+ hackathons**, **200+ participants**, and open-source contributions.
-* Kept the original **purple/black aesthetic, capsule header, typing animation, stats, streak, activity graph, collapsible tech sections, alignment, badges, and footer**.
-* Added a **Currently Building** section to make the profile communicate what you're actively becoming rather than just listing technologies.
-
-One thing I would **not** keep from the original README is the line *“Building at the intersection of Web3 & AI/ML”*. Your current resume gives substantially stronger evidence for **cloud infrastructure, backend engineering, DevOps, real-time systems, and scalable full-stack development**, so the README should sell that profile instead.
+One important point: I intentionally **didn't invent GitHub numbers, repositories, stars, followers, or projects that aren't supported by your information**. The dynamic SVG widgets will populate those from GitHub automatically.
