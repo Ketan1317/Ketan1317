@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:2d1b4e,100:0d0d2b&height=260&section=header&text=KETAN%20GOYAL&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⚡%20FULL%20STACK%20ENGINEER%20%7C%20CLOUD%20%26%20DEVOPS%20%7C%20SYSTEMS&descSize=18&descAlignY=72&descColor=c4b5fd"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Ketan+Goyal;%24+role+%E2%86%92+Full+Stack+Engineer;%24+focus+%E2%86%92+Scalable+%26+Distributed+Systems;%24+build+%E2%86%92+HackHeaven+%7C+DevPulse+%7C+DeployForge;%24+ship+%E2%86%92+Docker+%2B+AWS+%2B+CI%2FCD;%24+status+%E2%86%92+Always+Building+%E2%9A%A1"/>
