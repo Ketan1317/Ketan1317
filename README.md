@@ -91,6 +91,61 @@ I work in **Java and Spring Boot** as comfortably as in the **TypeScript/JavaScr
 
 <br/>
 
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### HackHeaven
+**Real-time collaborative coding platform.** Multi-user simultaneous editing and live coding contests, with isolated Docker-based code execution.
+
+<sub>Next.js · Node.js · Socket.IO · Redis · Docker · AWS</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### MiniDB
+**A relational database engine in the browser.** SQL parsing, AST generation, query execution, joins, indexing, transactions, persistence, and D3.js visualisation.
+
+<sub>SQL parser · Query engine · D3.js</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### MatchNest
+**Matrimonial and dating platform.** Real-time chat, swipe-based discovery, and in-app video calling.
+
+<sub>Socket.IO · WebRTC · WebSockets</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### DevPulse
+**Developer analytics and system monitoring.** A dashboard backed by scheduled monitoring services, indexed PostgreSQL queries, and JWT-secured APIs.
+
+<sub>React · Spring Boot · PostgreSQL · JWT</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### DeployForge
+**Self-hosted deployment platform.** Push-to-deploy pipelines that build Docker images, ship them to AWS EC2, and serve multiple apps behind an Nginx reverse proxy.
+
+<sub>Docker · AWS EC2 · Nginx · GitHub Actions</sub>
+
+</td>
+</tr>
+</table>
+
+More on [my repositories](https://github.com/Ketan1317?tab=repositories) and [portfolio](https://ketangoyal.tech).
+
+<br/>
+
 ## Problem solving
 
 I've solved **800+ DSA problems** across LeetCode, Codeforces, and GeeksforGeeks, including graphs, dynamic programming, and tries *(self-reported total)*. The cards below are generated live from my LeetCode profile.
@@ -131,7 +186,7 @@ I've solved **800+ DSA problems** across LeetCode, Codeforces, and GeeksforGeeks
 
 ## Open source and current focus
 
-I contribute to open source (Hacktoberfest and Winter of Code among them) and help run the technical side of Open Source Chandigarh. Right now I'm going deeper on backend engineering with Spring Boot, developer tooling, and system design. My code lives in [my repositories](https://github.com/Ketan1317?tab=repositories), and more of my work is on [my portfolio](https://portfolio-1317.vercel.app).
+I contribute to open source (Hacktoberfest and Winter of Code among them) and help run the technical side of Open Source Chandigarh. Right now I'm going deeper on backend engineering with Spring Boot, developer tooling, and system design. My code lives in [my repositories](https://github.com/Ketan1317?tab=repositories), and more of my work is on [my portfolio](https://ketangoyal.tech).
 
 <br/>
 
