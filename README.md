@@ -123,10 +123,6 @@ I've solved **800+ DSA problems** across LeetCode, Codeforces, and GeeksforGeeks
 
 <img width="560" alt="GitHub contribution streak for Ketan1317" src="https://streak-stats.demolab.com?user=Ketan1317&hide_border=true&background=0d0d0f&ring=db2777&fire=f472b6&currStreakLabel=e4e4e7&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=71717a"/>
 
-<br/>
-
-<img width="100%" alt="GitHub contribution activity graph for Ketan1317" src="https://github-readme-activity-graph.vercel.app/graph?username=Ketan1317&bg_color=0d0d0f&color=f472b6&line=a78bfa&point=f5f3ff&area=true&hide_border=true&radius=8"/>
-
 </div>
 
 <sub>Language percentages reflect repository code volume, not expertise. Contribution counts depend on what GitHub exposes publicly.</sub>
