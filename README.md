@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Ketan1317"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ketan1317-18181b?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ketan-goyal-117368324"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-18181b?style=for-the-badge&logo=linkedin&logoColor=f472b6"/></a>
-<a href="https://portfolio-1317.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-18181b?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://ketangoyal.tech"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-18181b?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://leetcode.com/u/ketangoyal1212/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-ketangoyal1212-18181b?style=for-the-badge&logo=leetcode&logoColor=f472b6"/></a>
 <a href="mailto:goyalketan1317@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-18181b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
